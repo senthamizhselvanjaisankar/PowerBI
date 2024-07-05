@@ -1,6 +1,0 @@
-Call Id,	Agent,	Date,	Time,	Topic,	Answered (Y/N),	Resolved,	Speed of answer in seconds,	AvgTalkDuration,	Satisfaction rating.   with this fields compute  Overall customer satisfaction
-Overall calls answered/abandoned
-Calls by time
-Average speed of answer
-Agent’s performance quadrant -> average handle time (talk duration) 
-power BI Dashboard
